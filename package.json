@@ -2,8 +2,14 @@
   "name": "aesop-code-styles",
   "version": "0.0.0",
   "description": "A set of configs for popular code linting and formatting tools used by Aesop.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aesop/aesop-code-styles.git"
+  },
   "main": "",
-  "scripts": {},
+  "scripts": {
+
+  },
   "keywords": [],
   "author": "Mustafa Mansour",
   "license": "ISC",
