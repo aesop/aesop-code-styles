@@ -6,7 +6,8 @@ module.exports = {
       'stylelint',
       'prettier',
       'dependencies',
-      'build'
+      'build',
+      'release'
     ]]
   }
 };
