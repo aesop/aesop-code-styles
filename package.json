@@ -9,7 +9,9 @@
   "files": [
     ".eslintrc.js"
   ],
-  "scripts": {},
+  "scripts": {
+    "release": "semantic-release"
+  },
   "keywords": [],
   "author": "Mustafa Mansour",
   "license": "ISC",
