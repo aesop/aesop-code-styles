@@ -5,16 +5,34 @@ then be used by our various code bases to provide consistent code.
 
 ## Usage
 
-TODO
+### Installation
 
-## Eslint
+```bash
+npm install -D aesop/aesop-code-styles
+```
 
-In your eslint config file extend the eslint configuration exported by this page
+### Eslint
+
+In your eslint config file extend the eslint configuration exported by this package
 
 ```js
+// .eslintrc.js
+
 'extends': [
   './node_modules/aesop-code-styles/.eslintrc',
 ],
+```
+
+### Prettier
+
+In your prettier config file, import the prettier configuration exported by this package
+
+```js
+// prettier.config.js
+
+module.exports = {
+  ...require('aesop-code-styles/.prettierrc'),
+};
 ```
 
 ## Contributing

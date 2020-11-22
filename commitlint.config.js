@@ -7,7 +7,8 @@ module.exports = {
       'prettier',
       'dependencies',
       'build',
-      'release'
+      'release',
+      'project'
     ]]
   }
 };
