@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/aesop/aesop-code-styles/compare/v0.2.0...v0.2.1) (2020-11-22)
+
+
+### Bug Fixes
+
+* **prettier:** move to dep from devDep ([50dc174](https://github.com/aesop/aesop-code-styles/commit/50dc17427f301241dc7112f4e71d0a1379b8066b))
+
 # [0.2.0](https://github.com/aesop/aesop-code-styles/compare/v0.1.0...v0.2.0) (2020-11-22)
 
 
