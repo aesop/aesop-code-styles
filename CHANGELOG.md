@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/aesop/aesop-code-styles/compare/v0.1.0...v0.2.0) (2020-11-22)
+
+
+### Features
+
+* **prettier:** add prettier ([568a1ec](https://github.com/aesop/aesop-code-styles/commit/568a1ec28411b60e2ee526ed3b0ba673f102e9c6))
+
 # [0.1.0](https://github.com/aesop/aesop-code-styles/compare/v0.0.1...v0.1.0) (2020-11-22)
 
 
