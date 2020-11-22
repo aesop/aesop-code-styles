@@ -17,6 +17,18 @@ In your eslint config file extend the eslint configuration exported by this page
 ],
 ```
 
+### Prettier
+
+In your prettier config file, import the prettier configuration exported by this package
+
+```js
+// prettier.config.js
+
+module.exports = {
+  ...require('aesop-code-styles/.prettierrc'),
+};
+```
+
 ## Contributing
 
 This repo enforces commit message formats as they are used to automatically version the package using semantic versioning.
