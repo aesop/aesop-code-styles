@@ -12,7 +12,8 @@
     "stylelint.config.js"
   ],
   "scripts": {
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "stylelint-check": "stylelint-config-prettier-check"
   },
   "keywords": [],
   "author": "Mustafa Mansour",
