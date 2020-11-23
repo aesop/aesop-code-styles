@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/aesop/aesop-code-styles/compare/v0.2.1...v0.3.0) (2020-11-23)
+
+
+### Features
+
+* **stylelint:** add stylelint ([a4fcb3e](https://github.com/aesop/aesop-code-styles/commit/a4fcb3e2f9d56559dfc72c8b0dadcc6827c7d907))
+
 ## [0.2.1](https://github.com/aesop/aesop-code-styles/compare/v0.2.0...v0.2.1) (2020-11-22)
 
 
