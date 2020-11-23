@@ -35,6 +35,21 @@ module.exports = {
 };
 ```
 
+### Stylelint
+
+In your stylelint config file, extend the stylelint configuration exported by this package
+
+```js
+// stylelint.config.js
+
+
+module.exports = {
+  "extends": [
+    "aesop-code-styles/stylelint.config.js"
+  ]
+}
+```
+
 ## Contributing
 
 This repo enforces commit message formats as they are used to automatically version the package using semantic versioning.
