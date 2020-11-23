@@ -18,9 +18,11 @@ In your eslint config file extend the eslint configuration exported by this pack
 ```js
 // .eslintrc.js
 
-'extends': [
-  './node_modules/aesop-code-styles/.eslintrc',
-],
+module.exports = {
+  'extends': [
+    './node_modules/aesop-code-styles/.eslintrc',
+  ],
+};
 ```
 
 ### Prettier
@@ -28,7 +30,7 @@ In your eslint config file extend the eslint configuration exported by this pack
 In your prettier config file, import the prettier configuration exported by this package
 
 ```js
-// prettier.config.js
+// .prettierrc.js
 
 module.exports = {
   ...require('aesop-code-styles/.prettierrc'),
@@ -42,12 +44,11 @@ In your stylelint config file, extend the stylelint configuration exported by th
 ```js
 // stylelint.config.js
 
-
 module.exports = {
   "extends": [
-    "aesop-code-styles/stylelint.config.js"
-  ]
-}
+    "aesop-code-styles/stylelint.config.js",
+  ],
+};
 ```
 
 ## Contributing
