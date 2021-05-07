@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/aesop/aesop-code-styles/compare/v0.3.0...v0.4.0) (2021-05-07)
+
+
+### Features
+
+* **dependencies:** update dependencies to latest ([15fefb0](https://github.com/aesop/aesop-code-styles/commit/15fefb0e0c0741fa656da2239139e57fdab2836e))
+
 # [0.3.0](https://github.com/aesop/aesop-code-styles/compare/v0.2.1...v0.3.0) (2020-11-23)
 
 
