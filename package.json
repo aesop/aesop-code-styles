@@ -13,7 +13,8 @@
   ],
   "scripts": {
     "release": "semantic-release",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "stylelint-config-prettier-check"
   },
   "keywords": [],
   "author": "Mustafa Mansour",
