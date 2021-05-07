@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/aesop/aesop-code-styles/compare/v0.4.0...v0.4.1) (2021-05-07)
+
+
+### Bug Fixes
+
+* **stylelint:** remove conflicting rules ([32a070a](https://github.com/aesop/aesop-code-styles/commit/32a070a1a8fbc42297dbaf1f2349614b9dd1db59))
+
 # [0.4.0](https://github.com/aesop/aesop-code-styles/compare/v0.3.0...v0.4.0) (2021-05-07)
 
 
