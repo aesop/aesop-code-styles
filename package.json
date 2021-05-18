@@ -1,6 +1,6 @@
 {
   "name": "aesop-code-styles",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "A set of configs for popular code linting and formatting tools used by Aesop.",
   "repository": {
     "type": "git",

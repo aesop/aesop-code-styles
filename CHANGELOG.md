@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/aesop/aesop-code-styles/compare/v0.4.2...v0.5.0) (2021-05-18)
+
+
+### Features
+
+* **eslint:** create configs for node & browser with and without TS ([e249e03](https://github.com/aesop/aesop-code-styles/commit/e249e035c5ce0de2022506fad75abc16db59be32))
+
 ## [0.4.2](https://github.com/aesop/aesop-code-styles/compare/v0.4.1...v0.4.2) (2021-05-18)
 
 
