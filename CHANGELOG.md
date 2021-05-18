@@ -1,3 +1,10 @@
+## [0.4.2](https://github.com/aesop/aesop-code-styles/compare/v0.4.1...v0.4.2) (2021-05-18)
+
+
+### Bug Fixes
+
+* **eslint:** disable indent rule due to clash with prettier ([177387a](https://github.com/aesop/aesop-code-styles/commit/177387abf21e2a54638a477868e0c2bb1adc97c8))
+
 ## [0.4.1](https://github.com/aesop/aesop-code-styles/compare/v0.4.0...v0.4.1) (2021-05-07)
 
 
