@@ -13,14 +13,23 @@ npm install -D aesop/aesop-code-styles
 
 ### Eslint
 
-In your eslint config file extend the eslint configuration exported by this package
+This library exports different eslint configurations for different environments (node, browser) and languages (JS, TS).
+The exported configurations are:
+
+- node
+- node-ts
+- browser
+- browser-ts
+
+In your eslint config file extend the eslint configuration most relevant to your package using one of the above.
+For example, for a frontend written in TS
 
 ```js
 // .eslintrc.js
 
 module.exports = {
   'extends': [
-    './node_modules/aesop-code-styles/.eslintrc',
+    './node_modules/aesop-code-styles/eslint/browser-ts.js',
   ],
 };
 ```

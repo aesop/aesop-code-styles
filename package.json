@@ -7,7 +7,7 @@
     "url": "git@github.com:aesop/aesop-code-styles.git"
   },
   "files": [
-    ".eslintrc.js",
+    "eslint",
     ".prettierrc.js",
     "stylelint.config.js"
   ],
@@ -29,6 +29,8 @@
     "semantic-release": "^17.4.2"
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.24.0",
+    "@typescript-eslint/parser": "^4.24.0",
     "babel-eslint": "10.1.0",
     "eslint": "7.25.0",
     "eslint-config-prettier": "8.3.0",
