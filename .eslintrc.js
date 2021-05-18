@@ -50,7 +50,6 @@ module.exports = {
     "comma-style": [2, "last"],
     "import/no-unresolved": "off",
     "import/prefer-default-export": "off",
-    "indent": [2, 2],
     "init-declarations": [2, "always"],
     "jsx-a11y/media-has-caption": 0,
     "jsx-a11y/label-has-associated-control": [
