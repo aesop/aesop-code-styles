@@ -1,3 +1,16 @@
+# [0.6.0](https://github.com/aesop/aesop-code-styles/compare/v0.5.0...v0.6.0) (2021-05-19)
+
+
+### Bug Fixes
+
+* **eslint:** correctly apply eslint-config-prettier ([017e657](https://github.com/aesop/aesop-code-styles/commit/017e6571fdc2bbe7d0ec721e203c548b41710cd5))
+* set sourceType to module for browser ([cb3a7d7](https://github.com/aesop/aesop-code-styles/commit/cb3a7d7b85bbb238a3aa87eac389ec7f5aabcb21))
+
+
+### Features
+
+* **eslint:** use inbuilt parser instead of babel-eslint ([53f1377](https://github.com/aesop/aesop-code-styles/commit/53f1377d0eee994b650ed5606dc6774983e7142b))
+
 # [0.5.0](https://github.com/aesop/aesop-code-styles/compare/v0.4.2...v0.5.0) (2021-05-18)
 
 
