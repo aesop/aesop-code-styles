@@ -1,7 +1,7 @@
 module.exports = {
   extends: ['eslint:recommended', 'prettier'],
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 2020,
     ecmaFeatures: {
       arrowFunctions: true,
       blockBindings: true,
