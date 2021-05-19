@@ -1,9 +1,6 @@
 module.exports = {
   parser: 'css',
-  extends: [
-    'stylelint-config-idiomatic-order',
-    'stylelint-config-prettier',
-  ],
+  extends: ['stylelint-config-idiomatic-order', 'stylelint-config-prettier'],
   rules: {
     'function-url-quotes': 'always',
     'at-rule-no-unknown': [

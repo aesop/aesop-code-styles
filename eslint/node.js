@@ -6,4 +6,4 @@ module.exports = {
     jest: true,
     node: true,
   },
-}
+};
