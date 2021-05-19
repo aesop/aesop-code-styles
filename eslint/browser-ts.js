@@ -1,6 +1,10 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  extends: ['./environment/browser.js', './environment/typescript.js'],
+  extends: [
+    './environment/browser.js',
+    './environment/typescript.js',
+    'prettier',
+  ],
   env: {
     browser: true,
     es6: true,

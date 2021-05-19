@@ -28,11 +28,29 @@ For example, for a frontend written in TS
 // .eslintrc.js
 
 module.exports = {
-  'extends': [
-    './node_modules/aesop-code-styles/eslint/browser-ts.js',
-  ],
+  extends: ['./node_modules/aesop-code-styles/eslint/browser-ts.js'],
 };
 ```
+
+**Note**: the environment for the `browser` eslint configurations does **not** include Node. This will cause eslint
+to complain when `module.exports` or Node global variables such as `__dirname` are accessed. This is intentional
+to prevent using them in the code that will be shipped to the browser. To correctly address this for files
+that run in Node, such as `babel.config.js` please do one of:
+
+1. Add this comment to the top of the file `/* eslint-env node */`
+2. Override the default behaviour for those files to manually set the environment by adding the following
+to the eslint config in the project
+
+   ```json
+   "overrides": [
+       {
+         "files": ["babel.config.js", "other files running in Node"],
+         "env": {
+           "node": true
+         }
+       }
+     ]
+   ```
 
 ### Prettier
 
@@ -54,9 +72,7 @@ In your stylelint config file, extend the stylelint configuration exported by th
 // stylelint.config.js
 
 module.exports = {
-  "extends": [
-    "aesop-code-styles/stylelint.config.js",
-  ],
+  extends: ['aesop-code-styles/stylelint.config.js'],
 };
 ```
 

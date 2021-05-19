@@ -1,6 +1,5 @@
 module.exports = {
-  parser: 'babel-eslint',
-  extends: './environment/general.js',
+  extends: ['./environment/general.js', 'prettier'],
   env: {
     es6: true,
     jest: true,
