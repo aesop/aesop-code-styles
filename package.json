@@ -12,8 +12,9 @@
     "stylelint.config.js"
   ],
   "scripts": {
-    "release": "semantic-release",
+    "prettier": "prettier --write '**/*.js'",
     "prepare": "husky install",
+    "release": "semantic-release",
     "test": "stylelint-config-prettier-check"
   },
   "keywords": [],
