@@ -1,3 +1,10 @@
+## [0.6.2](https://github.com/aesop/aesop-code-styles/compare/v0.6.1...v0.6.2) (2021-06-29)
+
+
+### Bug Fixes
+
+* updated readme with correct installation information ([0ff7f6b](https://github.com/aesop/aesop-code-styles/commit/0ff7f6b91799c50d56454bf43bd5be3d4a680b3b))
+
 ## [0.6.1](https://github.com/aesop/aesop-code-styles/compare/v0.6.0...v0.6.1) (2021-06-29)
 
 
