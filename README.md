@@ -8,7 +8,7 @@ then be used by our various code bases to provide consistent code.
 ### Installation
 
 ```bash
-npm install -D aesop/aesop-code-styles
+npm install -D @aesop-engineering/code-styles
 ```
 
 ### Eslint
@@ -28,7 +28,7 @@ For example, for a frontend written in TS
 // .eslintrc.js
 
 module.exports = {
-  extends: ['./node_modules/aesop-code-styles/eslint/browser-ts.js'],
+  extends: ['./node_modules/@aesop-engineering/code-styles/eslint/browser-ts.js'],
 };
 ```
 
@@ -60,7 +60,7 @@ In your prettier config file, import the prettier configuration exported by this
 // .prettierrc.js
 
 module.exports = {
-  ...require('aesop-code-styles/.prettierrc'),
+  ...require('@aesop-engineering/code-styles/.prettierrc'),
 };
 ```
 
@@ -72,7 +72,7 @@ In your stylelint config file, extend the stylelint configuration exported by th
 // stylelint.config.js
 
 module.exports = {
-  extends: ['aesop-code-styles/stylelint.config.js'],
+  extends: ['@aesop-engineering/code-styles/stylelint.config.js'],
 };
 ```
 
