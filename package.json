@@ -1,5 +1,5 @@
 {
-  "name": "aesop-code-styles",
+  "name": "@aesop-engineering/code-styles",
   "version": "0.6.0",
   "description": "A set of configs for popular code linting and formatting tools used by Aesop.",
   "repository": {
