@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+env:
+  NPM_TOKEN: ${{ secrets.X_NPM_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
