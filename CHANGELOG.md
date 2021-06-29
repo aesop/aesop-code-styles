@@ -1,3 +1,11 @@
+## [0.6.1](https://github.com/aesop/aesop-code-styles/compare/v0.6.0...v0.6.1) (2021-06-29)
+
+
+### Bug Fixes
+
+* added NPM token ([b529116](https://github.com/aesop/aesop-code-styles/commit/b5291165fc20a3fd7eb9c648dea0fb7049c398f3))
+* push changes to publish to npm repo ([#2](https://github.com/aesop/aesop-code-styles/issues/2)) ([02a2620](https://github.com/aesop/aesop-code-styles/commit/02a26202c564a720cbb0169b45474903e5b365d7))
+
 # [0.6.0](https://github.com/aesop/aesop-code-styles/compare/v0.5.0...v0.6.0) (2021-05-19)
 
 
