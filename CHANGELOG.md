@@ -1,3 +1,10 @@
+# [0.7.0](https://github.com/aesop/aesop-code-styles/compare/v0.6.2...v0.7.0) (2021-09-20)
+
+
+### Features
+
+* add eslint max-* rules ([#4](https://github.com/aesop/aesop-code-styles/issues/4)) ([f5337c1](https://github.com/aesop/aesop-code-styles/commit/f5337c1eeccd5760fa52691d4285369ecf824cbe))
+
 ## [0.6.2](https://github.com/aesop/aesop-code-styles/compare/v0.6.1...v0.6.2) (2021-06-29)
 
 
