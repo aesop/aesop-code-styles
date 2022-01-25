@@ -15,7 +15,7 @@ module.exports = {
       version: 'detect',
     },
   },
-  plugins: ['react', 'react-hooks', 'jsx-a11y'],
+  plugins: ['react', 'react-hooks', 'jsx-a11y', 'simple-import-sort'],
   rules: {
     'react/display-name': 0,
     'react/jsx-boolean-value': [2, 'always'],
@@ -55,5 +55,7 @@ module.exports = {
     ],
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+    'simple-import-sort/imports': 'warn',
+    'simple-import-sort/exports': 'warn',
   },
 };
