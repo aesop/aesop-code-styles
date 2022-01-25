@@ -1,3 +1,10 @@
+# [0.8.0](https://github.com/aesop/aesop-code-styles/compare/v0.7.0...v0.8.0) (2022-01-25)
+
+
+### Features
+
+* use eslint plugin to sort imports ([#6](https://github.com/aesop/aesop-code-styles/issues/6)) ([d64c34d](https://github.com/aesop/aesop-code-styles/commit/d64c34d488b69ecd835091af97433feca9e13e88))
+
 # [0.7.0](https://github.com/aesop/aesop-code-styles/compare/v0.6.2...v0.7.0) (2021-09-20)
 
 
