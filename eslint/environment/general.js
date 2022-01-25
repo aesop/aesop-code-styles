@@ -32,7 +32,6 @@ module.exports = {
     'init-declarations': [2, 'always'],
     'max-depth': [1, { max: 3 }],
     'max-lines': [1, { max: 150, skipBlankLines: false, skipComments: true }],
-    'max-lines-per-function': [1, { max: 40 }],
     'max-nested-callbacks': [1, { max: 4 }],
     'max-params': [1, { max: 3 }],
     'new-cap': 0,
