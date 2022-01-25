@@ -1,3 +1,10 @@
+# [0.9.0](https://github.com/aesop/aesop-code-styles/compare/v0.8.0...v0.9.0) (2022-01-25)
+
+
+### Features
+
+* **eslint:** remove 'max-lines-per-function' ([#7](https://github.com/aesop/aesop-code-styles/issues/7)) ([91a69bd](https://github.com/aesop/aesop-code-styles/commit/91a69bd1445393b9071a72404c1b1944c81c0d79))
+
 # [0.8.0](https://github.com/aesop/aesop-code-styles/compare/v0.7.0...v0.8.0) (2022-01-25)
 
 
