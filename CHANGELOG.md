@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/aesop/aesop-code-styles/compare/v0.9.0...v1.0.0) (2022-02-16)
+
+
+### Features
+
+* **stylelint:** update to version 14.5.0 ([#8](https://github.com/aesop/aesop-code-styles/issues/8)) ([2bdb87e](https://github.com/aesop/aesop-code-styles/commit/2bdb87ed1fd9873192fe2eb6e755f257632b3d28))
+
+
+### BREAKING CHANGES
+
+* **stylelint:** update Stylelint to version 14.5.0
+
 # [0.9.0](https://github.com/aesop/aesop-code-styles/compare/v0.8.0...v0.9.0) (2022-01-25)
 
 
