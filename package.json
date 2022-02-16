@@ -40,9 +40,9 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "prettier": "2.2.1",
-    "stylelint": "13.13.1",
+    "stylelint": "14.5.0",
     "stylelint-config-idiomatic-order": "8.1.0",
-    "stylelint-config-prettier": "8.0.2"
+    "stylelint-config-prettier": "9.0.3"
   },
   "lint-staged": {
     "*.js": "prettier --write"
