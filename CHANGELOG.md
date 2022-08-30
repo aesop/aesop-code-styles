@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/aesop/aesop-code-styles/compare/v1.0.0...v1.1.0) (2022-08-30)
+
+
+### Features
+
+* **prettier:** update prettier version ([#9](https://github.com/aesop/aesop-code-styles/issues/9)) ([24b4fa9](https://github.com/aesop/aesop-code-styles/commit/24b4fa958383476a4f63f97001b6c3cd82079ebc))
+
 # [1.0.0](https://github.com/aesop/aesop-code-styles/compare/v0.9.0...v1.0.0) (2022-02-16)
 
 
