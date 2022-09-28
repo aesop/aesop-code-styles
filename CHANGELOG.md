@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/aesop/aesop-code-styles/compare/v1.1.0...v1.2.0) (2022-09-28)
+
+
+### Features
+
+* **eslint:** bump react hooks version for nx compat ([6d41ccf](https://github.com/aesop/aesop-code-styles/commit/6d41ccf1f496878150f69d454e9931f95799ed7c))
+
 # [1.1.0](https://github.com/aesop/aesop-code-styles/compare/v1.0.0...v1.1.0) (2022-08-30)
 
 
