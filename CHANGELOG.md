@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/aesop/aesop-code-styles/compare/v1.2.0...v2.0.0) (2022-11-24)
+
+
+### chore
+
+* create next release ([#10](https://github.com/aesop/aesop-code-styles/issues/10)) ([6c771a3](https://github.com/aesop/aesop-code-styles/commit/6c771a3bdfc163c83209a8f1946704993313d840))
+
+
+### BREAKING CHANGES
+
+* move everything to peer dependencies
+
 # [1.2.0](https://github.com/aesop/aesop-code-styles/compare/v1.1.0...v1.2.0) (2022-09-28)
 
 
