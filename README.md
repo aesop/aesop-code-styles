@@ -86,3 +86,9 @@ To add/or change the rules in this repo:
 2. make the changes you wish to make. Ensure you use the correct commit type, otherwise the version might not be incremented
 3. raise a PR to `main`, ensuring to get reviews from as many members of the dev team as possible
 4. merge and wait for a new version to be published
+
+### Publishing new versions
+
+To publish to NPM this repo uses the `X_NPM_TOKEN` from the Aesop org secrets.
+
+Note that this secret will expire on 1st June 2024.
