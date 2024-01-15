@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/aesop/aesop-code-styles/compare/v2.1.0...v2.2.0) (2024-01-15)
+
+
+### Features
+
+* add notes on publishing ([#12](https://github.com/aesop/aesop-code-styles/issues/12)) ([f966122](https://github.com/aesop/aesop-code-styles/commit/f96612229d266bfe787d9feb3fdbd51c111101ff))
+
 # [2.1.0](https://github.com/aesop/aesop-code-styles/compare/v2.0.0...v2.1.0) (2024-01-14)
 
 
